@@ -1,0 +1,12 @@
+page-menu {
+    .logoutOuter {
+        position: absolute;
+        bottom: 20px;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+    .logoutOuter button {
+        width: 80%;
+    }
+}
